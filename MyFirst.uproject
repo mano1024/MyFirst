@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{68810870-4A24-4634-1E0D-218F73E163B8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyFirst",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
